@@ -1,0 +1,7 @@
+/dataset
+/*.png
+/*.jpg
+!/sample.png
+/test.py
+**/node_modules
+__pycache__/
